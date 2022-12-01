@@ -4,6 +4,7 @@
  };
 main()
 {
+  
  int n,i;
  printf("Enter number of Complex number to be added\n");
  scanf("%d",&n);
